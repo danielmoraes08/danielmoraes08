@@ -24,7 +24,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/Icons/java.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
 />
 <img 
     align="left" 
@@ -72,7 +72,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/Icons/sql.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg"
 />
 <img 
     align="left" 
@@ -80,11 +80,18 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/Icons/mysql.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
 />
 
 <br/>
 <br/>
 
+---
+
+<div align=center>  
+<a href="https://www.instagram.com/danimoraes08_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/danielmoraes08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="mailto:danibm2008@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"</a>
+</div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464646&height=120&section=footer"/>
