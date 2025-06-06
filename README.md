@@ -91,6 +91,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
       alt="GitHub Stats" 
       height="200"
       width="400"
+      style="margin-top:50px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoraes08&theme=tokyonight&layout=compact&custom_title=Linguagens+Utilizadas&langs_count=9" 
   />
 
