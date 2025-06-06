@@ -24,7 +24,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-701751694771838qyus1n9gdu.png"
+    src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/Icons/java.png"
 />
 <img 
     align="left" 
@@ -72,7 +72,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/Icons/sql.png"
 />
 <img 
     align="left" 
@@ -80,7 +80,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+    src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/Icons/mysql.png"
 />
 
 <br/>
