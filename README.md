@@ -1,9 +1,22 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/danielmoraes.gif" />
 &nbsp;&nbsp;&nbsp;
 
+---
+
 Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio para aplicar meus conhecimentos e aprender na prática. Tenho interesse em desenvolvimento de software, programação e tecnologia, e estou motivado a contribuir com dedicação, responsabilidade e vontade de crescer na área. Meu objetivo é adquirir experiência profissional enquanto desenvolvo habilidades que me preparem para desafios maiores no futuro.
 
-### 🤖 Linguagens e Tecnologias
+---
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielmoraes08&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Daniel Moraes github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoraes08&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+</div>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danielmoraes08&bg_color=000000&color=fff&line=464646&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+### Main Skills
 
 <img 
     align="left" 
@@ -11,7 +24,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-701751694771838qyus1n9gdu.png"
 />
 <img 
     align="left" 
@@ -74,24 +87,4 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
 <br/>
 
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200"
-    width="450"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=danielmoraes08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      width="375"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoraes08&theme=tokyonight&layout=compact&custom_title=Linguagens+Utilizadas&langs_count=9" 
-  />
-
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=464646&height=120&section=footer"/>
