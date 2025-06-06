@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/danielmoraes.gif" />
 &nbsp;&nbsp;&nbsp;
 
-Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio para aplicar meus conhecimentos e aprender na prática. Tenho interesse em desenvolvimento de software, programação e tecnologia, e estou motivado a contribuir com dedicação, responsabilidade e vontade de crescer na área. Meu objetivo é adquirir experiência profissional enquanto desenvolvo habilidades que me preparem para desafios maiores no futuro.".
+Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio para aplicar meus conhecimentos e aprender na prática. Tenho interesse em desenvolvimento de software, programação e tecnologia, e estou motivado a contribuir com dedicação, responsabilidade e vontade de crescer na área. Meu objetivo é adquirir experiência profissional enquanto desenvolvo habilidades que me preparem para desafios maiores no futuro.
 
 ### 🤖 Linguagens e Tecnologias
 
