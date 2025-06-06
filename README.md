@@ -1,8 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/danielmoraes08/danielmoraes08/main/danielmoraes.gif" />
 &nbsp;&nbsp;&nbsp;
 
-# Daniel Moraes
-
 Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio para aplicar meus conhecimentos e aprender na prática. Tenho interesse em desenvolvimento de software, programação e tecnologia, e estou motivado a contribuir com dedicação, responsabilidade e vontade de crescer na área. Meu objetivo é adquirir experiência profissional enquanto desenvolvo habilidades que me preparem para desafios maiores no futuro.".
 
 ### 🤖 Linguagens e Tecnologias
@@ -82,8 +80,9 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 20px;" 
+    height="200"
+    width="500"
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=danielmoraes08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -91,7 +90,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
       align="left" 
       alt="GitHub Stats" 
       height="200"
-      style="margin-left: 20px"
+      width="400"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoraes08&theme=tokyonight&layout=compact&custom_title=Linguagens+Utilizadas&langs_count=9" 
   />
 
