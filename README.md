@@ -5,12 +5,6 @@
 
 Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio para aplicar meus conhecimentos e aprender na prática. Tenho interesse em desenvolvimento de software, programação e tecnologia, e estou motivado a contribuir com dedicação, responsabilidade e vontade de crescer na área. Meu objetivo é adquirir experiência profissional enquanto desenvolvo habilidades que me preparem para desafios maiores no futuro.
 
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielmoraes08&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117" alt="Daniel Moraes github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoraes08&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
-</div>
 
 ##
 
@@ -93,7 +87,7 @@ Sou um estudante de 16 anos cursando Técnico em Desenvolvimento de Sistemas, em
 <br/>
 
 <div align=center> 
-  <a href="https://instagram.com/danimoraes08_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/danielbsmoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:danibm2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielmoraes08" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
